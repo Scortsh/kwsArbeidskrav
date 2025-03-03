@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Scortsh/kwsArbeidskrav/issues"
   },
-  "homepage": "https://github.com/Scortsh/kwsArbeidskrav#readme"
+  "homepage": "https://github.com/Scortsh/kwsArbeidskrav#readme",
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
 }
